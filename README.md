@@ -38,11 +38,9 @@ This dashboard helps HR professionals gain **data-driven insights** into workfor
 ---
 
 ## 📸 Dashboard Preview
-![HR Analytics Dashboard](<img width="1103" height="580" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/f26b948f-358d-4be7-8ac6-299e21dcdda5" />
-)
-
----
-
+![HR Analytics Dashboard]<p align="center">
+  <img width="1103" height="580" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/823b59b0-9d6e-4097-9d07-2e87d4c4bba0" />
+</p>
 ## 📌 Business Impact
 - Enabled HR teams to **track and reduce attrition** efficiently.  
 - Improved visibility into **employee satisfaction and engagement** levels.  
